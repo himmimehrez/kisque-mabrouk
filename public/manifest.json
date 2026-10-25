@@ -1,0 +1,17 @@
+{
+  "short_name": "Kiosk DZ",
+  "name": "Kiosk Manager DZ - Gestion Kiosque Multiservice",
+  "description": "Système d'information et caisse POS pour kiosque multiservice en Algérie",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%23059669'/><text x='50%' y='55%' dominant-baseline='middle' text-anchor='middle' font-size='50' fill='white' font-family='sans-serif'>DZ</text></svg>",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#020617",
+  "theme_color": "#059669",
+  "display": "standalone",
+  "orientation": "any"
+}

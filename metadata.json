@@ -1,0 +1,6 @@
+{
+  "name": "Kiosk Manager DZ",
+  "description": "Système d'information et de caisse (POS) pour kiosque multiservice en Algérie : ventes, stock, achats, prestations, caisse et rapports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
